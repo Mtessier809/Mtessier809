@@ -3,7 +3,7 @@
 I'm a senior at the University of Nevada, Las Vegas, graduating with a degree in Computer Science. My goal is to start my professional career in the tech industry, and I am currently looking for my first software engineering job.
 
 ## Skills
-* HTML,CSS,JS
+* HTML, CSS, JS
 * Python 
 * C++
 * SQL
