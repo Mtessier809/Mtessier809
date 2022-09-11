@@ -1,4 +1,3 @@
-![An aspiring Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 # Mathis Tessier
 I'm a senior at the University of Nevada, Las Vegas, graduating with a degree in Computer Science. My goal is to start my professional career in the tech industry, and I am currently looking for my first software engineering job.
 
