@@ -1,8 +1,8 @@
 ### Hi there 👋, Mathis
-#### I am an aspiring Software Engineer
-![I am an aspiring Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### An aspiring Software Engineer
+![An aspiring Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm finishing my studies at the University of Nevada, Las Vegas graduating with a degree in Computer Science. My goal is to start my professional career in the tech industry, and I am currently looking for my first software engineering job.
+I'm finishing my studies at the University of Nevada, Las Vegas, graduating with a degree in Computer Science. My goal is to start my professional career in the tech industry, and I am currently looking for my first software engineering job.
 
 Skills: HTML / CSS / JS / Python / C++ / SQL
 
